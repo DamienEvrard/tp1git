@@ -7,6 +7,9 @@ import javax.swing.JLabel;
 /**
  *
  * @author IDEA Developers
+ * 
+ * 
+ * 
  */
 public class MLabel extends JLabel{
     
